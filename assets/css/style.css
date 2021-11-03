@@ -116,11 +116,15 @@
         font-size: 3vw;
         background-color: rgb(46, 29, 196);
     }
+    .content-div {
+        margin: 30px;
+        padding: 20px; 
+    }
     .div-flex {
         display: block;
     }
     .div-flexItem {
-        width: 85%;
+        width: 95%;
     }
     .navbar {
         text-align: center;
