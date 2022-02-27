@@ -141,7 +141,10 @@ body {
     text-align: center;
 }
 .icon {
-    width: 40px;
+    width: 50px;
+}
+.icon:hover {
+    width: 52px;
 }
 .center {
     text-align: center;
